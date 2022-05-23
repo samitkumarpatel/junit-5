@@ -77,3 +77,6 @@ A thin layer on top of Junit 4 to allow running vintage tests
 </dependency>
 ```
 
+**Junit5 supported Annotations**
+
+[click](https://junit.org/junit5/docs/current/user-guide/#writing-tests-annotations) for more details.
